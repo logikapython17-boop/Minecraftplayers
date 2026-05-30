@@ -1,0 +1,25 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #380f02;
+  
+}
+
+header h1{
+    text-align: center;
+    color: green;
+}
+h2{
+    text-align: center;
+    color: green;
+}
+ul{
+    text-align: center;
+    color: green;
+    list-style: none;
+}
+footer{
+     color: green;
+    list-style: none;
+    text-align: center;
+}
